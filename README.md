@@ -1,4 +1,4 @@
-![Pink Landscape Desktop Wallpaper](https://user-images.githubusercontent.com/95593201/233118651-d920c6eb-87c3-4751-8939-11b915f7d721.png)
+![jirasin-yossri-W_29nYyiIpA-unsplash](https://user-images.githubusercontent.com/95593201/236651548-ae4089f0-677f-4cb0-aec1-8abd26e45f0d.jpg)
 
 <h1 align="center">Hola 👋, Me llamo Gabriela</h1>
 <h3 align="center">Estudiante Full Stack Developer Tengo conocimientos en HTLML5 , Css Flex box ,Grid ,Full Responsive, Bootstrap ,Sass, metodologías Camel Case, kebab-case.</h3>
@@ -6,7 +6,7 @@
 - 💬 Ask me about **HTLML5 , Css Flex box ,Grid ,Full Responsive, Bootstrap**
 
 - 📫 How to reach me **vegabyta20@gmail.com**
-![Retro](https://user-images.githubusercontent.com/95593201/233120835-7e9a35a7-a423-464a-b717-0f6826fe8a13.png)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
