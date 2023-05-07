@@ -4,9 +4,11 @@
 <h1 align="center">Hola 👋, Me llamo Gabriela</h1>
 <h3 align="center">Estudiante Full Stack Developer Tengo conocimientos en HTLML5 , Css Flex box ,Grid ,Full Responsive, Bootstrap ,Sass, metodologías Camel Case, kebab-case.</h3>
 
+
 - 💬 Ask me about **HTLML5 , Css Flex box ,Grid ,Full Responsive, Bootstrap**
 
 - 📫 How to reach me **vegabyta20@gmail.com**
+- ![fondo](https://thumbs.gfycat.com/AppropriateFatKagu-max-1mb.gif) 
 
 
 <h3 align="left">Connect with me:</h3>
