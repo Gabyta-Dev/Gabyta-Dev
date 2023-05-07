@@ -1,4 +1,5 @@
-![jirasin-yossri-W_29nYyiIpA-unsplash](https://user-images.githubusercontent.com/95593201/236651548-ae4089f0-677f-4cb0-aec1-8abd26e45f0d.jpg)
+
+![fondo](https://user-images.githubusercontent.com/95593201/236651707-6bfaeafb-75c7-4263-b0b6-564875d64e99.png)
 
 <h1 align="center">Hola 👋, Me llamo Gabriela</h1>
 <h3 align="center">Estudiante Full Stack Developer Tengo conocimientos en HTLML5 , Css Flex box ,Grid ,Full Responsive, Bootstrap ,Sass, metodologías Camel Case, kebab-case.</h3>
