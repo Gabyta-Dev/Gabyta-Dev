@@ -1,11 +1,17 @@
 
-![fondo](https://user-images.githubusercontent.com/95593201/236651707-6bfaeafb-75c7-4263-b0b6-564875d64e99.png)
+<h1 align="center">👋🏻 Hola!</h1>
+<h2 align="center">Soy Gabriela una Desarrolladora que Vive en Argentina apasionada por lo que hago !</h2>
+<h3 align="center">Como profesional en programación me considero una persona proactiva , responsable y empatica.</h3>
+<p>💡 Me gusta el trabajo en equipo pero al mismo tiempo soy independiente en la toma de decisiones.
+Busco proyectos desafiantes que me ayuden a desarrollarme, aprender nuevas tecnologías y metodologías.
+👩🏻‍🎓 Trabajé varios años en el área de ventas y administración, hasta que decidí embarcarme en el mundo de la programación.
+Hace un tiempo descubrí mi verdadera vocación y me di cuenta que siempre es un buen momento para elegir aquello que nos hace felices 
 
-<h1 align="center">Hola 👋, Me llamo Gabriela</h1>
-<h3 align="center">Estudiante Full Stack Developer Tengo conocimientos en HTLML5 , Css Flex box ,Grid ,Full Responsive, Bootstrap ,Sass, metodologías Camel Case, kebab-case.</h3>
+👩🏻‍🎓 En la actualidad me encuentro realizando la carrera de desarrollo web full stack , durante el cursado he realizado varios proyectos , alguno en forma de práctica y otros para clientes .
+Unos de mis objetivos es establecerme en una empresa en el área de Front-End.</p>
 
 
-- 💬 Ask me about **HTLML5 , Css Flex box ,Grid ,Full Responsive, Bootstrap**
+- 💬 Ask me about **HTLML5 , Css Flex box ,Grid ,Full Responsive, Bootstrap ,Javascript**
 
 - 📫 How to reach me **vegabyta20@gmail.com**
 - ![fondo](https://thumbs.gfycat.com/AppropriateFatKagu-max-1mb.gif) 
