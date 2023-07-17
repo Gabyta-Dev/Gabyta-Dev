@@ -1,9 +1,7 @@
 
 <h1 align="center">👋🏻 Hola bienvenido a mi perfil profesional!</h1>
 <h2 align="center">Mi nombre es Gabriela Soy de Mendoza - Argentina </h2>
-<div align="center">
-<img src="https://github.com/Gabyta-Dev/Gabyta-Dev/assets/95593201/e5b6586d-ce77-438a-97ca-0fc9648a55cc"  width="50%">
-</div>
+
 
 
 <h3 align="center">Como profesional en programación me considero una persona proactiva , responsable y empatica.</h3>
