@@ -4,14 +4,17 @@
 
 
 
-<h3 align="center">Como profesional en programación me considero una persona proactiva , responsable y empatica.</h3>
-<p>💡 Me gusta el trabajo en equipo pero al mismo tiempo soy independiente en la toma de decisiones.
-Busco proyectos desafiantes que me ayuden a desarrollarme, aprender nuevas tecnologías y metodologías.
-👩🏻‍🎓 Trabajé varios años en el área de ventas y administración, hasta que decidí embarcarme en el mundo de la programación.
-Hace un tiempo descubrí mi verdadera vocación y me di cuenta que siempre es un buen momento para elegir aquello que nos hace felices 
+<h3 align="center">me considero una persona proactiva , responsable y empatica.</h3>
+<p>Soy Gabriela ! una apasionada de la programación autodidacta con un enfoque en el desarrollo Front-End.Me encanta el diseño intuitivo y la usabilidad, y estoy comprometida en crear interfaces que no solo sean atractivas, sino también funcionales.
 
-👩🏻‍🎓 En la actualidad me encuentro realizando la carrera de desarrollo web full stack , durante el cursado he realizado varios proyectos , alguno en forma de práctica y otros para clientes .
-Unos de mis objetivos es establecerme en una empresa en el área de Front-End.</p>
+
+🤝 Valoro el trabajo en equipo y la colaboración, además de sentirme cómoda tomando decisiones de manera independiente. Busco oportunidades para unirme a un equipo donde pueda seguir creciendo y contribuyendo con mi energía y creatividad.
+
+
+👩🏻‍🎓 Durante varios años trabajé en el área de ventas y administración, actualmente sigo trajando en el area administrativa . 
+Hasta que decidí aventurarme en el fascinante mundo de la programación. En ese proceso, descubrí mi verdadera pasión y comprendí que siempre es un buen momento para elegir aquello que nos hace felices.
+
+👩🏻‍🎓 Actualmente, soy autodidacta en programación y me dedico a estudiar por mi cuenta para mejorar mis habilidades. Hasta ahora, he llevado a cabo varios proyectos prácticos que complementan mi aprendizaje. Uno de mis principales objetivos es establecerme en una empresa en el área de Front-End.
 
 
 - 💬 Ask me about **HTLML5 , Css Flex box ,Grid ,Full Responsive, Bootstrap ,Javascript**
