@@ -16,7 +16,8 @@ Hasta que decidí aventurarme en el fascinante mundo de la programación. En ese
 
 👩🏻‍🎓 Actualmente, soy autodidacta en programación y me dedico a estudiar por mi cuenta para mejorar mis habilidades. Hasta ahora, he llevado a cabo varios proyectos prácticos que complementan mi aprendizaje. Uno de mis principales objetivos es establecerme en una empresa en el área de Front-End.
 
-
+ Estoy emocionada de conectar con profesionales apasionados, compartir conocimientos y explorar oportunidades que impulsen nuestro crecimiento mutuo. ¡Espero poder aprender y contribuir juntos en esta increíble comunidad! 🚀
+ 
 - 💬 Ask me about **HTLML5 , Css Flex box ,Grid ,Full Responsive, Bootstrap ,Javascript**
 
 ![w8ZJLtJbmuph](https://github.com/Gabyta-Dev/Gabyta-Dev/assets/95593201/06dc85af-3eb4-4ab3-a813-363950fbf2ef)
